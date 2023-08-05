@@ -1,0 +1,74 @@
+/* *{
+    background-color: rgb(128, 165, 42);
+}
+table,tr , td {
+    font-style: normal;
+    border: 1px solid black;
+  }  */
+* {
+    font-family: 'popins' , sans-serif;
+
+}
+.git_link a{
+    color: #000;
+    text-decoration: none;
+
+}  
+
+.main-wrapper {
+    width: 60%;
+    margin: 100px ;
+}
+
+.git_link {
+    text-align: right;
+    margin-top: 10%;
+}
+
+q {
+    display: inline;
+}
+q::before {
+    content: open-quote;
+}
+q::after {
+    content:  close-quote;
+}
+.main-wrapper p{
+    font-weight: 400;
+    font: 22px;
+    border-left:4px solid ;
+    padding-left:10px ;
+}
+.Profolio {
+    margin-top:   10px;
+    text-align: center;
+}
+div {
+    display: block;
+}
+.card {
+    padding: 20px 0px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+    margin: 10px;
+   
+}
+.table {
+    border-collapse: separate;
+    text-indent: initial;
+    border-spacing: 2px;
+}
+.Portoflio a {
+    color: black;
+    text-decoration: none;
+}
+.Portoflio td {
+    width: 250px;
+    text-align: center;
+}
+div {
+    display: block;
+}
+.main-wrapper h1{
+    text-align: left;
+} 
